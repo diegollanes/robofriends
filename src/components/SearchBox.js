@@ -8,7 +8,6 @@ const SearchBox = ({ searchChange }) => {
 		placeholder='Insert your console'
 		onChange = {searchChange}
 		 />
-		}
 		</div>
 	);
 }
